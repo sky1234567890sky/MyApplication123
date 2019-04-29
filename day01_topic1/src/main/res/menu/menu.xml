@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu1" android:icon="@mipmap/angel" android:title="pop"></item>
+    <item android:id="@+id/menu2" android:icon="@mipmap/compouter" android:title="广播"></item>
+    <item android:id="@+id/menu3" android:icon="@mipmap/ic_launcher" android:title="打电话"></item>
+</menu>
